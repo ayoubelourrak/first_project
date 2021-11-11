@@ -9,7 +9,7 @@ class Person:
             for elem in squares:
                 print(elem)
         elif self._number == 0:
-            print(f'Just a Zero?!')
+            print(f'What!!!! Just a Zero?!')
         else:
             print(f'my name is {self._name}')
 
